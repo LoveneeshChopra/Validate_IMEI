@@ -1,0 +1,15 @@
+.container{
+    padding:0;
+    margin-top:40px;
+}
+h3{
+    margin-top:30px;
+}
+code{
+    font-family: arial;
+    padding:2px;
+    color:black;
+}
+a{
+    color:blue;
+}
